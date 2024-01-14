@@ -1,0 +1,41 @@
+fieldset {
+  width: 300px;
+  border: 1px solid #ff0000;
+  border-radius: 20px;
+  padding: 20px;
+  text-align: left;
+  background-color: rgb(70, 59, 59);
+}
+legend {
+  background-color: #ff0000;
+  border: 1px solid #3204ff;
+  border-radius: 20px;
+  padding: 10px 20px;
+  text-align: center;
+  text-transform: uppercase;
+  color: black;
+}
+p {
+  font-weight: bolder;
+  font-size: larger;
+}
+button {
+  width: 300px;
+  border-radius: 20px;
+  height: 40px;
+  font-style: normal;
+  font-size: large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: cadetblue;
+  background-color: burlywood;
+}
+input {
+  width: 300px;
+  border-radius: 5px;
+  height: 20px;
+  font-size: 15px;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+}
+body{color: rgb(177, 152, 152);
+background-color: rgb(173, 60, 60);}
